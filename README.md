@@ -4,6 +4,10 @@ To see the final product please go to:
 
 Final Game --> Mario Kart 1P Game Final.java and run it (must have all the files in the same directory)
 
+Or, to run the multiplayer version of the game go to:
+
+Final Game --> Mario Kart 2P Final Version.java
+
 	Controls:
 
 	up - up arrow
