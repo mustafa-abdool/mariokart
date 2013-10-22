@@ -1,4 +1,1 @@
-mariokart
-=========
-
-mario kart project
+This is a backup copy of a "Mario Kart" type game I made for my Grade 12 Computer Science Project. It uses many fundamental concepts such as Object Oriented Programming, AI and a psuedo-3d graphics interface.
