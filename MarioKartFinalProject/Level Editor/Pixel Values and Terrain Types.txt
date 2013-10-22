@@ -1,0 +1,35 @@
+				if (pixel==-505784){ //red barrier 
+					line+="a";
+				//	System.out.println("here");
+				}
+				else if (pixel==-10422176){ //green barrier 
+					line+="b";
+				}				
+				else if (pixel==-460656){  //yellow barrier 
+					line+="c";
+				}
+				else if (pixel==-9934600	){ //blue barrier 
+					line+="d";
+				}
+				else if (pixel==-16754688	){ //dark grass 
+					line+="e";
+				}
+				else if (pixel==-16734208	){ // light grass 
+					line+="f";
+				}								
+					
+				else if (pixel==-10422176	){  //nothing?
+					line+="g";
+				}	
+
+				else if (pixel==-10465240	){ //dark dirt (shadow)
+					line+="h";
+				}				
+
+				else if (pixel==-6254496){ // light dirt (ground) 
+					line+="i";
+				}				
+
+				else{ //road
+					line+="r";
+				}

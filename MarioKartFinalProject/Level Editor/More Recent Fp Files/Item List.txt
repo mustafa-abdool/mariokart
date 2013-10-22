@@ -1,0 +1,10 @@
+banana
+coin
+feather
+greenshell
+empty
+lightning
+mushroom
+redshell
+star
+yellowshell

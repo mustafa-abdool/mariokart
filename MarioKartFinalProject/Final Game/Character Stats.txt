@@ -1,0 +1,34 @@
+Peach
+Max_Velocity *
+Offroad_velocity *
+Acceleration ***
+Handling ***
+star
+
+Mario
+Max_Velocity **
+Offroad_velocity **
+Acceleration **
+Handling *
+mushroom
+
+KT
+Max_Velocity *
+Offroad_velocity **
+Acceleration ***
+Handling ***
+redshell
+
+Luigi
+Max_Velocity **
+Offroad_velocity **
+Acceleration **
+Handling *
+greenshell
+
+DK
+Max_Velocity ***
+Offroad_velocity **
+Acceleration *
+Handling *
+banana
