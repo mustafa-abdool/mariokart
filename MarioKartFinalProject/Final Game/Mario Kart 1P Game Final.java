@@ -1,4 +1,3 @@
-
 //=======================MOOSEY-O KART FINAL PROJECT====================================
 
 /*
@@ -134,14 +133,14 @@ class FP extends JPanel implements KeyListener, Runnable{
 	private int map_width = 1024; //width and height of map used
 	private int	map_height = 1024;
 
-	private int minimap_width = 250; //width and height of minimap
-	private int minimap_height = 250;
+	private int minimap_width = 350; //width and height of minimap
+	private int minimap_height = 350;
 
-	private int view_height = 400; //width and height of 2.5d portion
-	private int view_width = 400;
+	private int view_height = 500; //width and height of 2.5d portion
+	private int view_width = 500;
 
-	private int v_height = 400; //width and height of 2.5d portion
-	private int v_width = 400;
+	private int v_height = 500; //width and height of 2.5d portion
+	private int v_width = 500;
 
 
 
